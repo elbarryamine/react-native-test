@@ -9,13 +9,15 @@ providing a title and description. Additionally, there should be a button to gen
 <img width="826" alt="Screenshot 2023-05-21 at 5 01 39 PM" src="https://github.com/elbarryamine/react-native-test/assets/81116690/1bca28c3-52d3-4785-adb3-5545e839ac45">
 
 ## check this drawing here 
-https://excalidraw.com/#json=52N4Z5gMe_IeHmz9rcYEo,r168bti9_MmMBApQsMC8jA
+<a href="https://excalidraw.com/#json=52N4Z5gMe_IeHmz9rcYEo,r168bti9_MmMBApQsMC8jA">https://excalidraw.com/#json=52N4Z5gMe_IeHmz9rcYEo,r168bti9_MmMBApQsMC8jA</a>
 
 ## Before you start:
-- You must use React-query to handle fetching the fake date, and react-form-hook & zod to create the form and validate the inputs also use redux to handle the todos state.
+- You must use React-query to handle fetching the fake date
+- You must react-form-hook & zod to create the form and validate the inputs also use redux to handle the todos state.
+- You must use Native-base components <a href="https://nativebase.io/">learn more here</a>
 
 ## Instructions:
-1. use `typescript`
+1. You must use `typescript`
 2. create a stack with two screens using react-native-navigation `todos` & `create-todo`
 3. `create-todo` Screen :
   * create a form to create a new todo with title and
