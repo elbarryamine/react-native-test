@@ -13,7 +13,7 @@ providing a thumbnail ,title and body. Additionally, there should be a button to
 <a href="https://excalidraw.com/#json=5SDtW5cC8LMCHAwWQIps4,gLHiymXwuRmN-48yWKJO-A">https://excalidraw.com/#json=5SDtW5cC8LMCHAwWQIps4,gLHiymXwuRmN-48yWKJO-A</a>
 ## Before you start:
 - You must use React-query to handle fetching the fake date
-- You must react-form-hook & zod to create the form and validate the inputs also use redux to handle the todos state.
+- You must react-form-hook & zod to create the form and validate the inputs also use redux to handle the posts state.
 - You must use Native-base components <a href="https://nativebase.io/">learn more here</a>
 
 ## Instructions:
@@ -28,7 +28,7 @@ providing a thumbnail ,title and body. Additionally, there should be a button to
   * Create a tab view using react-native-tab-view with three tabs (`posts`,`archived`,`deleted`) (check   the drawing)
   *  list all posts in `posts` tab with two buttons one to mark it as complete and another to delete it.
   *  list archived posts in `archived` tab.
-  *  list deleted todos in `deleted` tab with a button to restore it.
+  *  list deleted posts in `deleted` tab with a button to restore it.
   *  create a button that navigate to `create-post`.
 5. The app should be compatible with both Android and iOS devices.
 6. Feel free to use any design and layout that you think works best for this app.
